@@ -328,7 +328,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Ali Mohammadi Ruzbahani**: ali.mohammadiruzbaha@ucalgary.ca
-- **Project Lead**: Prof. Hadis Karimipour (hadis.karimipour@ucalgary.ca)
 
 ## Ethical Considerations
 
