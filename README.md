@@ -364,4 +364,11 @@ This work is **not intended for malicious use**. Adversarial examples should onl
 
 ---
 
-**Disclaimer**: This repository contains research code for academic purposes. The quantum circuits are simulated using classical hardware. Physical quantum hardware execution is not currently supported.
+## ⚠️ Disclaimer
+
+This repository contains research code for academic and non-production purposes.  
+The quantum circuits included here are **simulated on classical hardware**, and **physical quantum hardware execution is not currently supported**.
+
+You are viewing a **sanitized and ethically-restricted** version of this repository.  
+All baseline attack implementations and the core adversarial system have been **intentionally weakened and partially obfuscated** to comply with responsible disclosure and to prevent misuse.  
+The full-strength research code is **not publicly released** due to potential security implications and ethical considerations associated with advanced adversarial methods.
